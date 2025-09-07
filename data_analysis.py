@@ -1,5 +1,4 @@
-#pip install openai --upgrade
-#pip install autogen
+#pip install --upgrade openai autogen pandas numpy pydantic langchain-core langchain-openai
 import os
 import tempfile
 import shutil
