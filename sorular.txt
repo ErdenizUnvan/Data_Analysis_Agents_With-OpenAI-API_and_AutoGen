@@ -1,0 +1,20 @@
+How many transactions are recorded in total?
+Which material number has the most transactions?
+What is the total local currency amount for all transactions?
+What is the average group currency amount per transaction?
+Which material has the highest total cost in local currency?
+What are the different types of materials used (material_type)?
+Which material description appears most frequently?
+What is the average value of transactions for each material type?
+What document types exist in the dataset, and how often do they occur?
+What is the total amount for document type 'WE'?
+Which general ledger account has the highest transaction volume?
+Which month has the highest transaction volume?
+What is the earliest and latest document date recorded?
+Are there any dates with unusually high or negative local currency amounts?
+Which vendor (supplier number) has the most transactions?
+Is there any transaction with an empty vendor number?
+Are all transactions from the same company code?
+Which transaction has the highest positive local currency amount?
+Are there any transactions with zero or negative amounts?
+What's the total cost per material in group currency?
